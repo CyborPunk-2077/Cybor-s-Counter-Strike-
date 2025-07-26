@@ -1,0 +1,3 @@
+C:/Users/Home/Downloads/cybor_counter_strike_project/build/CMakeFiles/CyborCounterStrike_Launcher.dir
+C:/Users/Home/Downloads/cybor_counter_strike_project/build/CMakeFiles/edit_cache.dir
+C:/Users/Home/Downloads/cybor_counter_strike_project/build/CMakeFiles/rebuild_cache.dir
